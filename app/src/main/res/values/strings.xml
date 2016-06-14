@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="height_hint">Height (in cm)</string>
+    <string name="weight_hint">Weight (in kg)</string>
+    <string name="bmi_hint">Body Mass Index</string>
+    <string name="bmi_description">
+        <![CDATA[
+            - <strong>Below 18.5:</strong> Underweight<br>
+            - <strong>18.5 – 24.9:</strong>	Normal or Healthy Weight<br>
+            - <strong>25.0 – 29.9:</strong> Overweight<br>
+            - <strong>30.0 and Above:</strong> Obese
+        ]]>
+    </string>
+
+    <string name="banner_home_footer">ca-app-pub-9070336419260953/4350605220</string>
+    <string name="interstitial_full_screen">ca-app-pub-9070336419260953/8780804828</string>
+</resources>
