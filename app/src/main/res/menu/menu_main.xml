@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <!--<item
+            android:id="@+id/add"
+            android:icon="@drawable/ic_add_circle_white_48dp"
+            android:title="Tabelle"
+            app:showAsAction="ifRoom" />-->
+
+        <!--<item
+            android:id="@+id/action_show_table"
+            android:icon="@drawable/ic_view_headline_white_48dp"
+            android:title="Tabelle"
+            app:showAsAction="ifRoom" />-->
+
+        <!--<item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_white_48dp"
+            android:title="Settings"
+            app:showAsAction="ifRoom" />-->
+
+        <item
+            android:id="@+id/unit_switch"
+            android:title=""
+            app:showAsAction="always"
+            app:actionLayout="@layout/switch_layout" />
+
+        <item
+            android:id="@+id/action_help"
+            android:icon="@drawable/ic_help_white_48dp"
+            android:title="Help"
+            app:showAsAction="ifRoom" />
+
+        <!--<item
+            android:id="@+id/action_info"
+            android:icon="@drawable/ic_info_white_48dp"
+            android:title="Info"
+            app:showAsAction="ifRoom"/>-->
+</menu>

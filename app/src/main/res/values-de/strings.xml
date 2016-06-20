@@ -4,4 +4,13 @@
     <string name="height_hint">Größe (in cm)</string>
     <string name="weight_hint">Gewicht (in kg)</string>
     <string name="bmi_hint">Body Mass Index</string>
+    <string name="txt_bmi_default_value">Bitte gib dein Gewicht und deine Größe ein um deinen BMI zu berechnen!</string>
+    <string name="action_help">Hilfe</string>
+    <string name="txt_bmi_value">Dein BMI: %1$.1f</string>
+    <string name="bmi_description">
+        Unter 18.5: Untergewicht
+        \n18.5 – 24.9: Normales oder Gesundes Gewicht
+        \n25.0 – 29.9: Übergewicht
+        \n30.0 und mehr: Adipös
+    </string>
 </resources>
