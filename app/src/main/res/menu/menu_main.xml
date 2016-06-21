@@ -25,12 +25,12 @@
             android:id="@+id/unit_switch"
             android:title=""
             app:showAsAction="always"
-            app:actionLayout="@layout/switch_layout" />
+            app:actionLayout="@layout/imperial_switch_layout" />
 
         <item
             android:id="@+id/action_help"
             android:icon="@drawable/ic_help_white_48dp"
-            android:title="Help"
+            android:title="@string/action_help"
             app:showAsAction="ifRoom" />
 
         <!--<item
