@@ -3,9 +3,6 @@
 
     <string name="height_hint">Height (in cm)</string>
     <string name="weight_hint">Weight (in kg)</string>
-    <string name="bmi_hint">Body mass index</string>
-    <string name="dialog_positive">Set</string>
-    <string name="dialog_negative">Cancel</string>
     <string name="txt_bmi_default_value">Please enter your weight and your height to calculate your BMI!</string>
     <string name="txt_bmi_value">Your BMI is: %1$.1f</string>
     <string name="action_help">Help</string>
@@ -20,5 +17,5 @@
     </string>
 
     <string name="banner_home_footer" translatable="false">ca-app-pub-9070336419260953/4350605220</string>
-    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
 </resources>
