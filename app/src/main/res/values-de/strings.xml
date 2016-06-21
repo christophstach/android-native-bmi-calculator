@@ -6,11 +6,13 @@
     <string name="txt_bmi_default_value">Bitte gib dein Gewicht und deine Größe ein um deinen BMI zu berechnen!</string>
     <string name="action_help">Hilfe</string>
     <string name="action_switch_imperial">Empirisch</string>
-    <string name="txt_bmi_value">Dein BMI: %1$.1f</string>
+    <string name="txt_bmi_value">Dein BMI beträgt: %1$.1f</string>
     <string name="bmi_description">
         Unter 18,5: Untergewicht
-        \n18,5 – 24.9: Normale / Gesund
-        \n25,0 – 29.9: Übergewicht
-        \n30,0 und mehr: Adipös
+        \n18,5 - 24,9: Normalgewicht
+        \n25,0 - 29,9: Übergewicht
+        \n30,0 - 34,9: Adipositas Klasse 1
+        \n35,0 - 39,9: Adipositas Klasse 2
+        \nÜber 40: Adipositas Klasse 3
     </string>
 </resources>

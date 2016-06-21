@@ -1,0 +1,2 @@
+- App logo icon by www.freepik.com from www.flaticon.com are licensed under Creative Commons BY 3.0
+- Inapp icons by google.de are licensed under Apache License Version 2.0

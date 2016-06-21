@@ -7,17 +7,18 @@
     <string name="dialog_positive">Set</string>
     <string name="dialog_negative">Cancel</string>
     <string name="txt_bmi_default_value">Please enter your weight and your height to calculate your BMI!</string>
-    <string name="txt_bmi_value">Your BMI: %1$.1f</string>
+    <string name="txt_bmi_value">Your BMI is: %1$.1f</string>
     <string name="action_help">Help</string>
     <string name="action_switch_imperial">Imperial</string>
     <string name="bmi_description">
         Below 18.5: Underweight
-        \n18.5 – 24.9: Normal or Healthy
-        \n25.0 – 29.9: Overweight
-        \n30.0 and Above: Obese
+        \n18.5 - 24.9: Normal weight
+        \n25.0 - 29.9: Overweight
+        \n30.0 - 34.9: Obese Class 1
+        \n35.0 - 39.9: Obese Class 2
+        \n40.0 and above: Obese Class 3
     </string>
 
     <string name="banner_home_footer" translatable="false">ca-app-pub-9070336419260953/4350605220</string>
-    <string name="interstitial_full_screen" translatable="false">ca-app-pub-9070336419260953/8780804828</string>
     <string name="title_activity_main2">Main2Activity</string>
 </resources>

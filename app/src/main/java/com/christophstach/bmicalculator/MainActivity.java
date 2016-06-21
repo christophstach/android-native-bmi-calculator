@@ -51,8 +51,8 @@ public class MainActivity extends AppCompatActivity {
         MobileAds.initialize(getApplicationContext(), "ca-app-pub-9070336419260953~7443672429");
 
         AdRequest.Builder builder = new AdRequest.Builder();
-        builder.addTestDevice("27071FC12B2D0D94B3220FE2C41EE76F"); //Mein Huawei
-        builder.addTestDevice("B98CEB65155AF75CE32D26295C54986C"); //Genymotion
+        //builder.addTestDevice("27071FC12B2D0D94B3220FE2C41EE76F"); //Mein Huawei
+        //builder.addTestDevice("B98CEB65155AF75CE32D26295C54986C"); //Genymotion
         AdRequest adRequest = builder.build();
 
 
@@ -140,6 +140,9 @@ public class MainActivity extends AppCompatActivity {
                 builder.setMessage(getString(R.string.bmi_description));
                 AlertDialog dialog = builder.create();
                 dialog.show();
+
+                TextView textView = (TextView) dialog.findViewById(android.R.id.message);
+                textView.setTextSize(18);
             default:
                 return super.onOptionsItemSelected(item);
         }

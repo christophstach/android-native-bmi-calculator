@@ -21,11 +21,11 @@
             android:title="Settings"
             app:showAsAction="ifRoom" />-->
 
-        <item
+        <!--<item
             android:id="@+id/unit_switch"
             android:title=""
             app:showAsAction="always"
-            app:actionLayout="@layout/imperial_switch_layout" />
+            app:actionLayout="@layout/imperial_switch_layout" />-->
 
         <item
             android:id="@+id/action_help"
