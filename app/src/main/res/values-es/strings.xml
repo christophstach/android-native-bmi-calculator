@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculadora de masa corporal (BMI)</string>
+
+    <string name="height_hint">Altura (en cm)</string>
+    <string name="weight_hint">Peso (en kg)</string>
+    <string name="txt_bmi_default_value">Escribe tu peso y altura para calcular tu masa corporal!</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_switch_imperial">Empirisch</string>
+    <string name="txt_bmi_value">Tu masa corporal es: %1$.1f</string>
+    <string name="bmi_description">
+        Por debajo de 18,5: Demasiado flaco
+        \n18,5 - 24,9: Peso normal
+        \n25,0 - 29,9: Sobrepeso
+        \n30,0 - 34,9: Adiposis Clase 1
+        \n35,0 - 39,9: Adiposis Clase 2
+        \nSobre 40: Adiposis Clase 3
+    </string>
+</resources>
