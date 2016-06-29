@@ -93,6 +93,15 @@
                 android:layout_below="@+id/weightWrapper"
                 android:layout_centerHorizontal="true" />
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/txt_bmi_message_default_value"
+                android:id="@+id/bmiMessage"
+                android:layout_below="@+id/bmi"
+                android:layout_centerHorizontal="true" />
+
 
         </RelativeLayout>
 

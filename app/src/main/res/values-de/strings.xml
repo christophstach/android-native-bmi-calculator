@@ -3,10 +3,21 @@
 
     <string name="height_hint">Größe (in cm)</string>
     <string name="weight_hint">Gewicht (in kg)</string>
-    <string name="txt_bmi_default_value">Bitte gib dein Gewicht und deine Größe ein um deinen BMI zu berechnen!</string>
+
+    <string name="txt_bmi_default_value"></string>
+    <string name="txt_bmi_value">%1$.1f</string>
+    <string name="txt_bmi_message_default_value">Bitte gib dein Gewicht und deine Größe ein um deinen BMI zu berechnen.</string>
+
+    <string name="txt_bmi_message_underweight">Gönn dir eine große Pizza.</string>
+    <string name="txt_bmi_message_normal_weight">Du siehst klasse aus. Weiter so!</string>
+    <string name="txt_bmi_message_overweight">Geh mal wieder joggen.</string>
+    <string name="txt_bmi_message_obese_class_1">Langsam wird es das ungesund, Pass auf!</string>
+    <string name="txt_bmi_message_obese_class_2">Du musst wirklich mal deinen Lebensstil überdenken.</string>
+    <string name="txt_bmi_message_obese_class_3">Du solltest zum Artzt.</string>
+
     <string name="action_help">Hilfe</string>
     <string name="action_switch_imperial">Empirisch</string>
-    <string name="txt_bmi_value">Dein BMI beträgt: %1$.1f</string>
+
     <string name="bmi_description">
         Unter 18,5: Untergewicht
         \n18,5 - 24,9: Normalgewicht

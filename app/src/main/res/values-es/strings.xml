@@ -3,10 +3,21 @@
 
     <string name="height_hint">Altura (en cm)</string>
     <string name="weight_hint">Peso (en kg)</string>
-    <string name="txt_bmi_default_value">Escribe tu peso y altura para calcular tu Índice de Masa Corporal!</string>
+
+    <string name="txt_bmi_default_value"></string>
+    <string name="txt_bmi_message_default_value">Escribe tu peso y altura para calcular tu Índice de Masa Corporal!</string>
+    <string name="txt_bmi_value">%1$.1f</string>
+
+    <string name="txt_bmi_message_underweight">Get a big pizza.</string>
+    <string name="txt_bmi_message_normal_weight">You are in a great shape. Keep going!</string>
+    <string name="txt_bmi_message_overweight">You should go for a run again.</string>
+    <string name="txt_bmi_message_obese_class_1">It is getting unhealthy. Take care!</string>
+    <string name="txt_bmi_message_obese_class_2">You really have to think about your lifestyle.</string>
+    <string name="txt_bmi_message_obese_class_3">You should see a doctor.</string>
+
     <string name="action_help">Ayuda</string>
     <string name="action_switch_imperial">Empirisch</string>
-    <string name="txt_bmi_value">Tu masa corporal es: %1$.1f</string>
+
     <string name="bmi_description">
         Por debajo de 18,5: Demasiado flaco
         \n18,5 - 24,9: Peso normal

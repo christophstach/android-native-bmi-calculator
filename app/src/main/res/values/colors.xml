@@ -6,6 +6,13 @@
     
     <color name="red">#F44336</color>
     <color name="green">#4CAF50</color>
-    <color name="yellow">#FFEB3B</color>
+    <color name="yellow">#FDD835</color>
     <color name="orange">#FF9800</color>
+
+    <color name="underweight">#FDD835</color>
+    <color name="normal_weight">#2E7D32</color>
+    <color name="overweight">#FDD835</color>
+    <color name="obese_class_1">#FF6F00</color>
+    <color name="obese_class_2">#f44336</color>
+    <color name="obese_class_3">#b71c1c</color>
 </resources>

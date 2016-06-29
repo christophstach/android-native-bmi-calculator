@@ -3,8 +3,18 @@
 
     <string name="height_hint">Height (in cm)</string>
     <string name="weight_hint">Weight (in kg)</string>
-    <string name="txt_bmi_default_value">Please enter your weight and your height to calculate your BMI!</string>
-    <string name="txt_bmi_value">Your BMI is: %1$.1f</string>
+
+    <string name="txt_bmi_default_value"></string>
+    <string name="txt_bmi_value">%1$.1f</string>
+    <string name="txt_bmi_message_default_value">Please enter your weight and your height to calculate your BMI.</string>
+
+    <string name="txt_bmi_message_underweight">Get a big pizza.</string>
+    <string name="txt_bmi_message_normal_weight">You are in a great shape. Keep going!</string>
+    <string name="txt_bmi_message_overweight">You should go for a run again.</string>
+    <string name="txt_bmi_message_obese_class_1">It is getting unhealthy. Take care!</string>
+    <string name="txt_bmi_message_obese_class_2">You really have to think about your lifestyle.</string>
+    <string name="txt_bmi_message_obese_class_3">You should see a doctor.</string>
+
     <string name="action_help">Help</string>
     <string name="action_switch_imperial">Imperial</string>
     <string name="bmi_description">
